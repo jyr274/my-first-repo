@@ -1,2 +1,4 @@
 # my-first-repo
-A repository for learning GitHub
+🎮 I like to play video games, ask me about them! 
+💅 I am a part Nail Technician
+💬 I learned python and 
