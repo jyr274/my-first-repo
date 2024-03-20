@@ -1,4 +1,4 @@
 # my-first-repo
-A repository for learning GitHub
-
-EXCEPT I (jojo) STINK!!!!
+🎮 I do NOT like to play video games, DON'T ask me about them! 
+💅 I am NOT a part time Nail Technician
+💬 I did NOT learn python 
