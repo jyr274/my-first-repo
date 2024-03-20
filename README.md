@@ -1,6 +1,13 @@
-# my-first-repo
-🎮 I do NOT like to play video games, DON'T ask me about them! 
 
-💅 I am NOT a part time Nail Technician
+🎮 I like to play video games, ask me about them!
 
-💬 I did NOT learn python 
+💅 I am a part-time Nail Tech
+
+💬 I learned python and currently learning object oriented 
+
+
+
+
+
+
+
